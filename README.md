@@ -120,4 +120,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name - abhaynarhire@gmail.com
 
-Project Link: [https://github.com/108Abhay/JuteCart]
+Project Link: https://github.com/108Abhay/JuteCart
