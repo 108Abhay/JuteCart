@@ -37,7 +37,7 @@ A complete e-commerce solution built with the MERN stack (MongoDB, Express.js, R
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/108Abhay/JuteCart
 ```
 
 2. Install dependencies for both frontend and backend:
